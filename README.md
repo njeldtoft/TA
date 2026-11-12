@@ -1,6 +1,6 @@
 Auditable LLM-Supported Workflow for Qualitative Thematic Analysis
 
-This repository contains the Jupyter notebooks developed for the MSc thesis Designing an Auditable LLM-Supported Workflow for Qualitative Thematic Analysis by Nadia Jul Jeldtoft, Data Science, University of Southern Denmark (2026).
+This repository contains the Jupyter notebooks developed for the project Designing an Auditable LLM-Supported Workflow for Qualitative Thematic Analysis by post doc Nadia Jul Jeldtoft, University of Southern Denmark (2026).
 
 The project presents a proof-of-concept computational operationalisation of inductive, interpretative thematic analysis (TA) for qualitative interview data. It combines locally deployed large language model (LLM) inference with deterministic Python-based data processing, validation, and traceability.
 
