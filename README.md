@@ -229,19 +229,23 @@ Citation
 
 If you use or build on this workflow, please cite:
 
-Jeldtoft, N. J. (2026). Designing an Auditable LLM-Supported Workflow for Qualitative Thematic Analysis [MSc thesis, University of Southern Denmark]. https://github.com/njeldtoft/TA
+Jeldtoft, N. J. (2026). Designing an Auditable LLM-Supported Workflow for Qualitative Thematic Analysis 
 
-@mastersthesis{jeldtoft2026auditable,
-  author = {Jeldtoft, Nadia Jul},
-  title  = {Designing an Auditable LLM-Supported Workflow for Qualitative Thematic Analysis},
-  school = {University of Southern Denmark},
-  year   = {2026},
-  url    = {https://github.com/njeldtoft/TA}
+https://github.com/njeldtoft/TA
+
+@misc{jeldtoft2026auditable,
+  author        = {Jeldtoft, Nadia Jul and Yousef, Tariq},
+  title         = {Designing an Auditable {LLM}-Supported Workflow for Qualitative Thematic Analysis},
+  year          = {2026},
+  eprint        = {2608.30543},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.AI},
+  url           = {https://arxiv.org/abs/2608.30543}
 }
 
 Author
 
-Nadia Jul JeldtoftData Science, University of Southern Denmark
+Nadia Jul Jeldtoft, University of Southern Denmark
 
 Licence
 
