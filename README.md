@@ -229,7 +229,7 @@ Citation
 
 If you use or build on this workflow, please cite:
 
-Jeldtoft, N. J. (2026). Designing an Auditable LLM-Supported Workflow for Qualitative Thematic Analysis 
+Jeldtoft, N. J. (2026). Designing an Auditable LLM-Supported Workflow for Qualitative Thematic Analysis (forthcoming in CHR Anthology 2027)
 
 https://github.com/njeldtoft/TA
 
